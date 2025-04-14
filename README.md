@@ -1,0 +1,1 @@
+The gesture recognition model uses MediaPipe's hand detection model to detect hands and extract the fingertip keypoint coordinates, then saves the coordinates to a CSV file.The file main.py serves as an example of a click gesture.
