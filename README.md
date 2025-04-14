@@ -1,1 +1,2 @@
 The gesture recognition model uses MediaPipe's hand detection model to detect hands and extract the fingertip keypoint coordinates, then saves the coordinates to a CSV file.The file main.py serves as an example of a click gesture.
+pythonProject is the action recognition module, containing the core action recognition code. It represents the initial hybrid model concept, providing only the most basic ideas and methods, which can serve as a reference for readers.
